@@ -1,3 +1,3 @@
 # Whose University Is It?
 
-a Boston-area coalition calling for democratic and transparent decision making on campus.
+A Boston-area coalition calling for democratic and transparent decision making on campus.
