@@ -1,2 +1,2 @@
 # whoseuniversityisit.github.io
-The official website of the coalition advocating for transparent decision making at universities.
+A Boston-area coalition calling for democratic and transparent decision making on campus.
